@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "title": "Create Website By Doob So Quick Download And Make Your Site."
+    },
+
+    {
+        "id": 2,
+        "title": "Үйлчилгээнүүд",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "ihelp HR",
+                "url": "/hr"
+            },
+            {
+                "id": 2,
+                "text": "ihelp deal",
+                "url": "/deal"
+            },
+            {
+                "id": 3,
+                "text": "ihelp magazine",
+                "url": "/magazine"
+            },
+            {
+                "id": 4,
+                "text": "ihelp +",
+                "url": "/plus"
+            },
+            {
+                "id": 5,
+                "text": "ihelp champ",
+                "url": "/champ"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Сэтгүүл",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Утасаар холбогдох",
+                "url": "/contact"
+            },
+            {
+                "id": 2,
+                "text": "Эмайл бичих",
+                "url": "/contact"
+            },
+            {
+                "id": 3,
+                "text": "Хаяг байршил",
+                "url": "/contact"
+            }
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Холбоо барих",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Суртчилгаа оруулах",
+                "url": "/contact"
+            },
+            {
+                "id": 2,
+                "text": "Сэтгүүл үзэх",
+                "url": "/magazine"
+            },
+            {
+                "id": 3,
+                "text": "Нээлттэй ажлын байр",
+                "url": "/work"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "title": "Resources",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "About",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "text": "Portfolio",
+                "url": "/portfolio"
+            },
+            {
+                "id": 3,
+                "text": "Contact",
+                "url": "/contact"
+            },
+            {
+                "id": 4,
+                "text": "Service",
+                "url": "/service"
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "title": "Бидэнтэй social хаяг.",
+        "subtitle": "Та бидэнтэй social аар холбогдоорой"
+    }
+]

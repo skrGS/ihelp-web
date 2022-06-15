@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "title": " "
+    },
+
+    {
+        "id": 2,
+        "title": "Бизнесүүд",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "ihelp HR",
+                "url": "/hr"
+            },
+            {
+                "id": 2,
+                "text": "ihelp deal",
+                "url": "/deal"
+            },
+            {
+                "id": 3,
+                "text": "ihelp magazine",
+                "url": "/magazine"
+            },
+            {
+                "id": 4,
+                "text": "ihelp+",
+                "url": "/plus"
+            },
+            {
+                "id": 5,
+                "text": "ihelp champ",
+                "url": "/champ"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Сэтгүүл",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Утасаар холбогдох",
+                "url": "/contact"
+            },
+            {
+                "id": 2,
+                "text": "Эмайл бичих",
+                "url": "/contact"
+            },
+            {
+                "id": 3,
+                "text": "Хаяг байршил",
+                "url": "/contact"
+            }
+           
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Холбоо барих",
+        "quicklink": [
+           
+            {
+                "id": 2,
+                "text": "Сэтгүүл унших",
+                "url": "/magazine"
+            },
+            {
+                "id": 3,
+                "text": "Нээлттэй ажлын байр",
+                "url": "/work"
+            },
+            {
+                "id": 4,
+                "text": "Сэтгүүлийн үйлчилгээний нөхцөл",
+                "url": "/Privacy-policy"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "title": "Resources",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "About",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "text": "Portfolio",
+                "url": "/portfolio"
+            },
+            {
+                "id": 3,
+                "text": "Contact",
+                "url": "/contact"
+            },
+            {
+                "id": 4,
+                "text": "Service",
+                "url": "/service"
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "title": "Нийгмийн сүлжээн дэх хаягууд",
+        "subtitle": "Та манай хаягуудыг дагаж тогтмол мэдээллээр хангагдаарай"
+    }
+]

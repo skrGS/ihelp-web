@@ -1,0 +1,107 @@
+import React from "react";
+import BrandLogo from "../logo/BrandLogo";
+
+const BrandTwo = ({ brandStyle }) => {
+  return (
+    <ul className={`brand-list ${brandStyle}`}>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-1.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-1b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-2.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-2b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-3.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-3b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-4.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-4b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-5.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-5b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-6.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-6b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-7.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-7b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-8.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-8b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-9.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-9b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-10.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-10b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-11.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-11b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-12.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-12b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-13.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-13b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-14.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-14b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-15.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-15b.png`}
+        />
+      </li>
+      <li>
+        <BrandLogo
+          image={`${process.env.PUBLIC_URL}/images/brand/brand-16.png`}
+          image2={`${process.env.PUBLIC_URL}/images/brand/brand-16b.png`}
+        />
+      </li>
+    </ul>
+  );
+};
+
+export default BrandTwo;
