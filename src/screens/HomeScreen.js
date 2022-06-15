@@ -226,6 +226,7 @@ const HomeScreen = () => {
           </div> */}
         </Slider>
         {/* End Slider Area  */}
+        <ContactData />
 
         <Separator />
         <div className="rn-service-area rn-section-gap">
@@ -248,14 +249,6 @@ const HomeScreen = () => {
           </div>
         </div>
 
-        {/* <Separator />
-        <div className="rwt-split-area ">
-          <div className="wrapper">
-           
-            <SlipTwo />
-          </div>
-        </div> */}
-
         <Separator />
         <div className="rwt-split-area rn-section-gap ">
           <div className="wrapper">
@@ -263,14 +256,7 @@ const HomeScreen = () => {
           </div>
         </div>
         {/* 
-        <Separator />
-
-        <div className="rwt-split-area rn-section-gap">
-          <div className="wrapper">
-            <SlipOne />
-          </div>
-        </div> */}
-
+       
         <Separator />
         {/* Start Service Area  */}
         <div className="rwt-brand-area pb--80">
@@ -293,7 +279,6 @@ const HomeScreen = () => {
           </div>
         </div>
         {/* End Service Area  */}
-        <ContactData />
         {/* <Separator />
         <Subs /> */}
         <Footer />
